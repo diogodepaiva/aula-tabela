@@ -1,0 +1,36 @@
+.cabecalho-moda th{
+    background-color:#BB86FC;
+    color: aliceblue;
+    width: 30px;
+    height: 30px;
+    padding: 3px;
+}
+.cabecalho-casa th{
+    background-color: #00c4b4;
+    color: aliceblue;
+    width: 30px;
+    height: 30px;
+    padding: 3px;
+   
+}
+
+
+.tabela-moda td{
+    background-color:#424250 ;
+    color: aliceblue;
+    width: 30px;
+    height: 30px;
+    padding: 3px;
+}
+
+.tabela-casa td{
+    background-color:#424250 ;
+    color: aliceblue;
+    width: 30px;
+    height: 30px;
+    padding: 3px;
+
+}
+
+
+
